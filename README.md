@@ -3,12 +3,11 @@
 <h2 align="center"> Hey, I’m Alex!</h2>
 <p align="center"> I don't want to just use applications, I want to make them. </p>
 
-I've decided to become a software developer in order to understand how the technologies I use everyday function. 
+After years of learning modeling and optimization in Excel, I knew I had a great understanding of how to organize, manipulate, and analyze data. I  always had an interest for coding and web design, so last year I decided to learn the skillset necessary in order to become a web developer. I've put in the work, and I'm currently looking for full-time opportunities as a full stack web developer.
 
+I strive to deliver great user experiences in all my applications, which is why I take a lot of time to think about my code and application structure before I type a single line of code. I have a great understanding of the Model-View-Controller (MVC) software design pattern, and I leverage that knowledge to create organized, well-structured applications that are easy for other coders to disect. This style of programming has enabled me to become a great collaborator, and it's a skill that I continue to work on and improve daily. I have some personal passion projects I'd like to code, and I'm always open to working with other developers in their personal endeavors as well. Whether your a recruiter, a developer, or simply passing through, I hope you find pleasure in using my apps.
 
 My React.js Portfolio: [Take Me There](https://alex-gonzalez-portfolio.herokuapp.com/)
-
-
 
 ## Education 
 I'm a firm believer that no matter what, one must never stop learning, growing, and taking on new endeavors. 
@@ -33,7 +32,7 @@ I shall continue learining and hopefully, give back to some of you reading some 
 
 ## 📫 How to reach me: 
 * LinkedIn: [Alexis Gonzalez](https://www.linkedin.com/in/alexis-gonzalez-07/)
-* Github: [@AlexisGonzalez07](https://github.com/AlexisGonzalez07/)  
+* Github: [AlexisGonzalez07](https://github.com/AlexisGonzalez07/)  
 * Portfolio: [Alex Gonzalez Portfolio](https://alex-gonzalez-portfolio.herokuapp.com/)
 
 <!--
