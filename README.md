@@ -13,13 +13,14 @@ I'm a firm believer that no matter what, one must never stop learning, growing, 
 I attended The University of Texas at Austin's Red McCombs School of Business where I graduated in May of 2019 with a BBA in Supply Chain Management and a minor in Finance. 
 Graduated with a BBA in Business Administration at the Red McCombs School of Business in May 2019 with a major in Supply Chain Management and a minor in Finance. I gained valuable knowledge in logistics, warehousing, strategic management, procurement, project management, and modeling/optimization. I also gained the ability to conduct qualitative and quantitative analyses to make optimal investment and operational decisions. I fell in love with data management, numbers, and solving problems, but as a first-generation college graduate I was burnt out. Within a year COVID happened, and after trying my luck with some personal projects and a ton of YouTube videos, I began to explore the world of coding...
 
-I recently obtained a certificate from the Coding Bootcamp at the University of Texas at Austin
-I’ve developed strong analytical and leadership skills that enable me to implement positive change in business results and culture. These experiences have prepared me to work and thrive in a professional setting.
+I recently obtained a certificate from the Coding Bootcamp at the University of Texas at Austin in December of 2021. I'm so excited to take the skills I developed in those three months to the workplace. Although I had seen a lot about coding and software development, it wasn't until I got my first assignment that I ever opened up Visual Studio Code and typed <!DOCTYPE html>. Since then, I've worked on over 18 small projects, wrote my first gist, and collaborated on three applications with a talented team of developers (all three projects pinned below!). I still remember how tough it was to write my first code quiz, and how it was even tougher to style it after spending hours writing script. But the growth pains made me a better coder, and there's a long journey ahead of me. I may have learned HTML, CSS, Javascript, Express, SQL, React, MongoDB, RESTful APIs and all the other beautiful things in software development, but there's still Python, C, C#, and Swift to learn. Not to mention the thousands of component libraries and front-end frameworks out in the wild.
+
+I hope to continue learning in the near future and hopefully give back to some of you reading some day.
 
 
 ## Fun Facts about me 
- 🔭 I’m currently working on finding employment as an entry-level junior developer
-- 🌱 I’m currently learning how to create and deploy a full-stack application using the MERN stack
+- 🔭 I’m now a professional full stack software developer, I'm just not getting paid yet
+- 🌱 I’m currently growing my understanding of data structures and algorithms
 - 👯 I’m looking to collaborate on exciting applications meant to meet real world needs
 - 💬 Ask me about why I started investing in crypto and where I see myself in 10 years
 - 😄 Pronouns: He/him
@@ -28,7 +29,7 @@ I’ve developed strong analytical and leadership skills that enable me to imple
 
 ## 📫 How to reach me: 
 * Github: [@AlexisGonzalez07](https://github.com/AlexisGonzalez07/)  
-* Portfolio: [Alex Gonzalez Portfolio](https://alexisgonzalez07.github.io/Alex-Gonzalez-Personal-Portfolio/)
+* Portfolio: [Alex Gonzalez Portfolio](https://alex-gonzalez-portfolio.herokuapp.com/)
 * LinkedIn: [Alexis Gonzalez](https://www.linkedin.com/in/alexis-gonzalez-07/)
 
 <!--
