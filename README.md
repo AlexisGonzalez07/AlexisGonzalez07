@@ -1,7 +1,10 @@
 <h1 align="center"> 👋 Howdy </h1>
 
 <h2 align="center"> Hey, I’m Alex!</h2>
+
 <p align="center"> I don't want to just use applications, I want to make them. </p>
+
+Passionate and solutions-driven Full Stack Web Developer with a background in data modeling, optimization, and inventory management from UT Austin’s Red McCombs School of Business. Skilled in React, CSS, JavaScript, MySQL, and MongoDB, I’m looking to develop autonomous business management solutions and improve current database management systems. Driven, collaborative, and effective leader with a proven ability to thrive in team environments. Will develop innovative, data-driven business solutions.
 
 After years of learning modeling and optimization in Excel, I knew I had a great understanding of how to organize, manipulate, and analyze data. I  always had an interest for coding and web design, so last year I decided to learn the skillset necessary in order to become a web developer. I've put in the work, and I'm currently looking for full-time opportunities as a full stack web developer.
 
