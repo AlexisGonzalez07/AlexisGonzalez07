@@ -1,54 +1,80 @@
-<h1 align="center"> 👋 Howdy </h1>
+![I am a Full Stack Web Developer](https://github.com/AlexisGonzalez07/AlexisGonzalez07/blob/main/Banner.jpg)
+<p align="center">
+  <a href="[https://kurtisivey.github.io/portfolio.v2/](https://alex-gonzalez-portfolio.netlify.app/)" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-678666?&style=for-the-badge&logoColor=white">
+  </a>
+  <a href="[https://www.linkedin.com/in/kurtisivey/](https://www.linkedin.com/in/alexis-gonzalez-07/)" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-678666?&style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 
-<h2 align="center"> Hey, I’m Alex!</h2>
+  <a href="mailto:alexis.gonzalez07@gmail.com">
+    <img src="https://img.shields.io/badge/SEND%20MAIL-678666?&style=for-the-badge&logo=MAIL.RU&logoColor=white">
+   </a>
+</p>
 
-<p align="center"> I don't want to just use applications, I want to make them. </p>
+<br>
 
-Passionate and solutions-driven Full Stack Web Developer with a background in data modeling, optimization, and inventory management from UT Austin’s Red McCombs School of Business. Skilled in React, CSS, JavaScript, MySQL, and MongoDB, I’m looking to develop autonomous business management solutions and improve current database management systems. Driven, collaborative, and effective leader with a proven ability to thrive in team environments. Will develop innovative, data-driven business solutions.
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, my name is Alex 💻🥋</h1></summary>
+  </ul>
+</div>
 
-After years of learning modeling and optimization in Excel, I knew I had a great understanding of how to organize, manipulate, and analyze data. I  always had an interest for coding and web design, so last year I decided to learn the skillset necessary in order to become a web developer. I've put in the work, and I'm currently looking for full-time opportunities as a full stack web developer.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-I strive to deliver great user experiences in all my applications, which is why I take pride in the fact that I meticulously think about my code and application structure before I type a single line of code. I have a great understanding of the Model-View-Controller (MVC) software design pattern, and I leverage that knowledge to create organized, well-structured applications that are easy for other coders to dissect. This style of programming has enabled me to become a great collaborator, and it's a skill that I continue to work on and improve daily. I have some personal passion projects I'd like to code, and I'm always open to working with other developers in their personal endeavors as well. Whether you're a recruiter, a developer, or simply passing through, I hope you find pleasure in using my apps.
+<p align="center"><em>Solutions-driven Software Engineer that is fascinated with collaborating with others who share a can-do culture. Passionate about teaching/learning software development and supporting the team around me with empathy. Experienced working with languages/frameworks such as JavaScript, Python, MySQL, and React on applications with responsibilities such as cloud database management, API design, front-end data processing, data visualization, algorithmic solving, automation, and telling the user story. Excited to develop user-focused experiences and create transformative business solutions through the power of code</em>.</p>
+<br>
 
-My React.js Portfolio: [Take Me There](https://alex-gonzalez-portfolio.netlify.app/)
 
-## Education 
-I'm a firm believer that no matter what, one must never stop learning, growing, and taking on new endeavors. 
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width ="20"> Projects</h2></summary>
+  </ul>
+</div>
 
-I graduated with a BBA in Business Administration at the Red McCombs School of Business in May 2019 with a major in Supply Chain Management and a minor in Finance. I gained valuable knowledge in logistics, warehousing, strategic management, procurement, project management, and modeling/optimization. I also gained the ability to conduct qualitative and quantitative analyses to make optimal investment and operational decisions. I fell in love with data management, numbers, and solving problems, but as a first-generation college graduate I was burnt out. Within a year COVID happened, and after trying my luck with some personal projects and a ton of YouTube videos, I began to explore the world of coding...
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-I recently obtained a certificate from the Coding Bootcamp at the University of Texas at Austin in December of 2021. I'm so excited to take the skills I developed in those three months to the workplace. Although I had seen a lot about coding and software development, it wasn't until I got my first assignment that I ever opened up Visual Studio Code and typed my first line of code: ```<!DOCTYPE html>```. Since then, I've worked on over 18 small projects, wrote my first gist, and collaborated on three applications with a talented team of developers (all three projects pinned below!). I still remember how tough it was to write my first code quiz, and how it was even tougher to style it after spending hours writing a script. But the growth pains made me a better coder, and there's still a long journey ahead of me. I may have learned HTML, CSS, Javascript, Express, SQL, React, MongoDB, RESTful APIs and other beautiful things in software development, but there's still Python, C, C#, Swift and other languages to learn - not to mention the thousands of component libraries and front-end frameworks out in the wild.
+<br>
 
-I shall continue learining and hopefully, give back to some of you reading some day.
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> Skills</h2></summary>
+  </ul>
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
 
+<h3 align="center">Languages</h3>
+<p align="center">
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+  <img alt="Markdown" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="SQL" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+</p>
+
+<h3 align="center">Frameworks, Platforms, and Libraries</h3>
+<p align="center">
+  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
+  <img alt="Next js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img alt="jwt json web token" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
+  <img alt="node js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  <img alt="express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+</p>
+
+<h3 align="center">Databases</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" alt="S3">
+<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" alt="DynamoDB">
+<img src="https://img.shields.io/badge/IndexedDB-2196F3?style=for-the-badge&logo=mozilla-firefox&logoColor=white" alt="IndexedDB">
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+</p>
+ 
 ## Fun Facts about me 
-- 🔭 I’m now a professional full stack software developer, I'm just not getting paid yet
-- 🌱 I’m currently growing my understanding of data structures and algorithms
-- 👯 I’m looking to collaborate on exciting applications meant to meet real world needs
-- 💬 Ask me about why I started investing in crypto and where I see myself in 10 years
-- 😄 Pronouns: He/him
+- 🔭 I’m now a professional full stack software developer, Senior Tutor at 2u for over 15 months.
 - ⚡ Fun fact: I love soccer, basketball, and competitive Call of Duty.
 
-
-## 📫 How to reach me: 
-* LinkedIn: [Alexis Gonzalez](https://www.linkedin.com/in/alexis-gonzalez-07/)
-* Github: [AlexisGonzalez07](https://github.com/AlexisGonzalez07/)  
-* Portfolio: [Alex Gonzalez Portfolio](https://alex-gonzalez-portfolio.netlify.app/)
-
-<!--
-**AlexisGonzalez07/AlexisGonzalez07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
