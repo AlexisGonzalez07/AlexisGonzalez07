@@ -1,9 +1,9 @@
 ![I am a Full Stack Web Developer](https://github.com/AlexisGonzalez07/AlexisGonzalez07/blob/main/Banner.jpg)
 <p align="center">
-  <a href="[https://kurtisivey.github.io/portfolio.v2/](https://alex-gonzalez-portfolio.netlify.app/)" target="_blank">
+  <a href="https://alex-gonzalez-portfolio.netlify.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-678666?&style=for-the-badge&logoColor=white">
   </a>
-  <a href="[https://www.linkedin.com/in/kurtisivey/](https://www.linkedin.com/in/alexis-gonzalez-07/)" target="_blank">
+  <a href="https://www.linkedin.com/in/alexis-gonzalez-07/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-678666?&style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
