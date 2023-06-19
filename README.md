@@ -25,15 +25,6 @@
 <p align="center"><em>Solutions-driven Software Engineer that is fascinated with collaborating with others who share a can-do culture. Passionate about teaching/learning software development and supporting the team around me with empathy. Experienced working with languages/frameworks such as JavaScript, Python, MySQL, and React on applications with responsibilities such as cloud database management, API design, front-end data processing, data visualization, algorithmic solving, automation, and telling the user story. Excited to develop user-focused experiences and create transformative business solutions through the power of code</em>.</p>
 <br>
 
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width ="20"> Projects</h2></summary>
-  </ul>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <br>
 
 <div id="user-content-toc">
@@ -41,8 +32,6 @@
     <summary><h2 style="display: inline-block"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> Skills</h2></summary>
   </ul>
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 <h3 align="center">Languages</h3>
 <p align="center">
