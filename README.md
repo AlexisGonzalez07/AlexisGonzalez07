@@ -22,7 +22,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center"><em>Solutions-driven Software Engineer that is fascinated with collaborating with others who share a can-do culture. Passionate about teaching/learning software development and supporting the team around me with empathy. Experienced working with languages/frameworks such as JavaScript, Python, MySQL, and React on applications with responsibilities such as cloud database management, API design, front-end data processing, data visualization, algorithmic solving, automation, and telling the user story. Excited to develop user-focused experiences and create transformative business solutions through the power of code</em>.</p>
+<p align="center"><em>Solutions-driven Software Engineer that is passionate about architecting and implementing cloud solutions for software at any scale. Experienced in designing and developing complex, stateful front-end applications that deliver seamless user experiences. Proficient in languages/frameworks such as JavaScript, Python, and Java. A natural problem solver with consulting and client-facing experience.</em>.</p>
 <br>
 
 <br>
