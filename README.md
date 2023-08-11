@@ -61,8 +61,38 @@
 <img src="https://img.shields.io/badge/IndexedDB-2196F3?style=for-the-badge&logo=mozilla-firefox&logoColor=white" alt="IndexedDB">
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
- 
-## Fun Facts about me 
-- 🔭 I’m now a professional full stack software developer, Senior Tutor at 2u for over 15 months.
-- ⚡ Fun fact: I love soccer, basketball, and competitive Call of Duty.
+
+
+<h3 align="center">Major Project</h3>
+<h4>PlantHub v3.0: June 2023 Release</h4>
+
+Responsibilities: Codebase Migration to Next.js, TypeScript, and Tailwind CSS, UX/UI Redesign, PWA Implementation
+
+<ul>
+  <li>Implemented data validation and type checking using TypeScript and Next.js to reduce code discrepancies and database errors</li>
+  <li>Designed on the TailwindCSS styling framework with DaisyUI to enable application theming for an enhanced user experience</li>
+  <li>Configured API endpoints to facilitate data synchronization with DynamoDB, S3, and other AWS cloud services with daily synchronization</li>
+  <li>Skillfully configured IndexedDB, augmenting data storage capabilities and offline access</li>
+</ul>
+
+<h4>PlantHub v2.0: March 2023 Release</h4>
+
+Responsibilities: Improve User Journey, Implement image upload to AWS S3, Refactor MyGarden Dashboard
+
+<ul>
+  <li>Seamlessly incorporated the styled-components library into the existing codebase, effectively enhancing the styling of components within the My Garden and Login/Signup sections</li>
+  <li>Expanded the capabilities by implementing an image-upload feature using the Plant ID API, harnessing the power of AI for seamless plant identification and automating plant care recommendations</li>
+  <li>Successfully integrated cloud storage functionality to store and manage images, optimizing data handling and ensuring scalability for the application</li>
+</ul>
+
+<h4>PlantHub v1.0: January 2022 Release</h4>
+
+Responsibilities: MVP Implementation, GraphQL API Design, Database Configuration
+
+<ul>
+  <li>Configured MongoDB Database Schema using Mongoose ORM and deployed database on a MongoDB Atlas cluster on the cloud</li>
+  <li>Skillfully developed and implemented stateful React forms, ensuring dynamic and user-friendly data input experiences for the project MVP</li>
+  <li>Integrated Apollo Client mutations and queries within React, enhancing data management and communication for the project's minimum viable product (MVP)</li>
+  <li>Leveraged Semantic UI and Material UI frameworks to implement user-friendly components</li>
+</ul>
 
