@@ -64,7 +64,7 @@
 
 
 <h3 align="center">Major Project</h3>
-<h4>PlantHub v3.0: June 2023 Release</h4>
+<a href="https://next-dynamo-plant-hub.vercel.app/"><h4>PlantHub v3.0: June 2023 Release</h4></a>
 
 Responsibilities: Codebase Migration to Next.js, TypeScript, and Tailwind CSS, UX/UI Redesign, PWA Implementation
 
@@ -75,7 +75,7 @@ Responsibilities: Codebase Migration to Next.js, TypeScript, and Tailwind CSS, U
   <li>Skillfully configured IndexedDB, augmenting data storage capabilities and offline access</li>
 </ul>
 
-<h4>PlantHub v2.0: March 2023 Release</h4>
+<a href="https://plant-hub-refactor-client.vercel.app/"><h4>PlantHub v2.0: March 2023 Release</h4></a>
 
 Responsibilities: Improve User Journey, Implement image upload to AWS S3, Refactor MyGarden Dashboard
 
@@ -85,7 +85,7 @@ Responsibilities: Improve User Journey, Implement image upload to AWS S3, Refact
   <li>Successfully integrated cloud storage functionality to store and manage images, optimizing data handling and ensuring scalability for the application</li>
 </ul>
 
-<h4>PlantHub v1.0: January 2022 Release</h4>
+<a href="https://plant-hub-v1.vercel.app/"><h4>PlantHub v1.0: January 2022 Release</h4></a>
 
 Responsibilities: MVP Implementation, GraphQL API Design, Database Configuration
 
